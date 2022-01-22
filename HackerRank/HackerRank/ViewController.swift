@@ -28,11 +28,18 @@ class ViewController: UIViewController {
         
         miniMaxSum(arr: [1,2,3,4,5])
 
+        staircase(n: 4)
+        
+        
+        print(diagonalDifference(arr: [[11, 2, 4],
+                                 [4, 5 ,6],
+                                 [10, 8, -12]]))
 
 
+        print(compareTriplets(a: [5 , 6, 7], b: [3 , 6 ,10]))
 
         
-    }
+              }
     
     
     
