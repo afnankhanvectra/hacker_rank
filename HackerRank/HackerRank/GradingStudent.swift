@@ -10,6 +10,7 @@
 import Foundation
 
 func gradingStudents(grades: [Int]) -> [Int] {
+    
         var finalGradsArray = [Int]()
         
         for grade in grades {

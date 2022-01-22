@@ -20,6 +20,12 @@ class ViewController: UIViewController {
         
         countApplesAndOranges(s: 7, t: 11, a: 5, b: 15, apples: [-2,2,1], oranges: [5,-6])
         
+         print(gradingStudents(grades: [73, 67,38,33]))
+        
+        print(timeConversion(s: "12:45:00PM"))
+
+
+        
     }
     
     
