@@ -23,6 +23,12 @@ class ViewController: UIViewController {
          print(gradingStudents(grades: [73, 67,38,33]))
         
         print(timeConversion(s: "12:45:00PM"))
+        
+        print(birthdayCakeCandles(candles: [3 ,2 ,1 ,3]))
+        
+        miniMaxSum(arr: [1,2,3,4,5])
+
+
 
 
         
