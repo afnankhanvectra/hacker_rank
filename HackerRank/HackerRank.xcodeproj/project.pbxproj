@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9C0C6A3727A141890096BB0C /* SquaresBetweenRange.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C0C6A3627A141890096BB0C /* SquaresBetweenRange.swift */; };
 		9C4293A3279BED7C00A49C07 /* TimeCoversion.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C4293A2279BED7C00A49C07 /* TimeCoversion.swift */; };
 		9C4293A5279BEF1E00A49C07 /* BirthdayCakeCandle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C4293A4279BEF1E00A49C07 /* BirthdayCakeCandle.swift */; };
 		9C4293A7279BF11000A49C07 /* MinMaxSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C4293A6279BF11000A49C07 /* MinMaxSum.swift */; };
@@ -26,6 +27,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9C0C6A3627A141890096BB0C /* SquaresBetweenRange.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SquaresBetweenRange.swift; sourceTree = "<group>"; };
 		9C4293A2279BED7C00A49C07 /* TimeCoversion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimeCoversion.swift; sourceTree = "<group>"; };
 		9C4293A4279BEF1E00A49C07 /* BirthdayCakeCandle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BirthdayCakeCandle.swift; sourceTree = "<group>"; };
 		9C4293A6279BF11000A49C07 /* MinMaxSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinMaxSum.swift; sourceTree = "<group>"; };
@@ -89,6 +91,7 @@
 				9C4293A8279BF29200A49C07 /* Staircase.swift */,
 				9C4293AA279BF43F00A49C07 /* DiagonalDifference.swift */,
 				9C4293AC279BF60700A49C07 /* CompareTriplets.swift */,
+				9C0C6A3627A141890096BB0C /* SquaresBetweenRange.swift */,
 				9C56E8752798ABAE0018C239 /* Main.storyboard */,
 				9C56E8782798ABAF0018C239 /* Assets.xcassets */,
 				9C56E87A2798ABAF0018C239 /* LaunchScreen.storyboard */,
@@ -177,6 +180,7 @@
 				9C4293A5279BEF1E00A49C07 /* BirthdayCakeCandle.swift in Sources */,
 				9C4293A9279BF29300A49C07 /* Staircase.swift in Sources */,
 				9C56E8862798B0AB0018C239 /* NumberLineJump.swift in Sources */,
+				9C0C6A3727A141890096BB0C /* SquaresBetweenRange.swift in Sources */,
 				9C4293A3279BED7C00A49C07 /* TimeCoversion.swift in Sources */,
 				9C4293AD279BF60700A49C07 /* CompareTriplets.swift in Sources */,
 				9C56E88A2798BEBA0018C239 /* GradingStudent.swift in Sources */,
