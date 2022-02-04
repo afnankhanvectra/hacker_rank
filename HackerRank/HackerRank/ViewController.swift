@@ -40,7 +40,9 @@ class ViewController: UIViewController {
          print(compareTriplets(a: [5 , 6, 7], b: [3 , 6 ,10]))
          */
         
-        print(squares(a: 11, b: 734))
+       // print(squares(a: 11, b: 734))
+        
+        taumBday(b: 3, w: 3, bc: 1, wc: 9, z: 2)
         
         
         

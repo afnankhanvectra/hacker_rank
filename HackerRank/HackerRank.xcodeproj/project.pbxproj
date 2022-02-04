@@ -24,6 +24,7 @@
 		9C56E8862798B0AB0018C239 /* NumberLineJump.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C56E8852798B0AB0018C239 /* NumberLineJump.swift */; };
 		9C56E8882798BCFF0018C239 /* AppleAndOranges.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C56E8872798BCFF0018C239 /* AppleAndOranges.swift */; };
 		9C56E88A2798BEBA0018C239 /* GradingStudent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C56E8892798BEBA0018C239 /* GradingStudent.swift */; };
+		9CD813CA27ADD230001FFA2B /* TaumBday.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CD813C927ADD230001FFA2B /* TaumBday.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -46,6 +47,7 @@
 		9C56E8852798B0AB0018C239 /* NumberLineJump.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberLineJump.swift; sourceTree = "<group>"; };
 		9C56E8872798BCFF0018C239 /* AppleAndOranges.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppleAndOranges.swift; sourceTree = "<group>"; };
 		9C56E8892798BEBA0018C239 /* GradingStudent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradingStudent.swift; sourceTree = "<group>"; };
+		9CD813C927ADD230001FFA2B /* TaumBday.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaumBday.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,6 +95,7 @@
 				9C4293AC279BF60700A49C07 /* CompareTriplets.swift */,
 				9C0C6A3627A141890096BB0C /* SquaresBetweenRange.swift */,
 				9C56E8752798ABAE0018C239 /* Main.storyboard */,
+				9CD813C927ADD230001FFA2B /* TaumBday.swift */,
 				9C56E8782798ABAF0018C239 /* Assets.xcassets */,
 				9C56E87A2798ABAF0018C239 /* LaunchScreen.storyboard */,
 				9C56E87D2798ABAF0018C239 /* Info.plist */,
@@ -171,6 +174,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9CD813CA27ADD230001FFA2B /* TaumBday.swift in Sources */,
 				9C56E8842798AC880018C239 /* ExtraLongFactorial.swift in Sources */,
 				9C56E8742798ABAE0018C239 /* ViewController.swift in Sources */,
 				9C56E8882798BCFF0018C239 /* AppleAndOranges.swift in Sources */,
