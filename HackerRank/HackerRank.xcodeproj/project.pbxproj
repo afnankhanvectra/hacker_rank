@@ -25,6 +25,8 @@
 		9C56E8882798BCFF0018C239 /* AppleAndOranges.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C56E8872798BCFF0018C239 /* AppleAndOranges.swift */; };
 		9C56E88A2798BEBA0018C239 /* GradingStudent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C56E8892798BEBA0018C239 /* GradingStudent.swift */; };
 		9CD813CA27ADD230001FFA2B /* TaumBday.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CD813C927ADD230001FFA2B /* TaumBday.swift */; };
+		9CD813CC27ADD70C001FFA2B /* BreakingRecords.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CD813CB27ADD70C001FFA2B /* BreakingRecords.swift */; };
+		9CD813CE27ADE048001FFA2B /* MigratoryBirds.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CD813CD27ADE048001FFA2B /* MigratoryBirds.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -48,6 +50,8 @@
 		9C56E8872798BCFF0018C239 /* AppleAndOranges.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppleAndOranges.swift; sourceTree = "<group>"; };
 		9C56E8892798BEBA0018C239 /* GradingStudent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradingStudent.swift; sourceTree = "<group>"; };
 		9CD813C927ADD230001FFA2B /* TaumBday.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaumBday.swift; sourceTree = "<group>"; };
+		9CD813CB27ADD70C001FFA2B /* BreakingRecords.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BreakingRecords.swift; sourceTree = "<group>"; };
+		9CD813CD27ADE048001FFA2B /* MigratoryBirds.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MigratoryBirds.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +98,8 @@
 				9C4293AA279BF43F00A49C07 /* DiagonalDifference.swift */,
 				9C4293AC279BF60700A49C07 /* CompareTriplets.swift */,
 				9C0C6A3627A141890096BB0C /* SquaresBetweenRange.swift */,
+				9CD813CB27ADD70C001FFA2B /* BreakingRecords.swift */,
+				9CD813CD27ADE048001FFA2B /* MigratoryBirds.swift */,
 				9C56E8752798ABAE0018C239 /* Main.storyboard */,
 				9CD813C927ADD230001FFA2B /* TaumBday.swift */,
 				9C56E8782798ABAF0018C239 /* Assets.xcassets */,
@@ -179,10 +185,12 @@
 				9C56E8742798ABAE0018C239 /* ViewController.swift in Sources */,
 				9C56E8882798BCFF0018C239 /* AppleAndOranges.swift in Sources */,
 				9C4293A7279BF11000A49C07 /* MinMaxSum.swift in Sources */,
+				9CD813CC27ADD70C001FFA2B /* BreakingRecords.swift in Sources */,
 				9C56E8702798ABAE0018C239 /* AppDelegate.swift in Sources */,
 				9C4293AB279BF43F00A49C07 /* DiagonalDifference.swift in Sources */,
 				9C4293A5279BEF1E00A49C07 /* BirthdayCakeCandle.swift in Sources */,
 				9C4293A9279BF29300A49C07 /* Staircase.swift in Sources */,
+				9CD813CE27ADE048001FFA2B /* MigratoryBirds.swift in Sources */,
 				9C56E8862798B0AB0018C239 /* NumberLineJump.swift in Sources */,
 				9C0C6A3727A141890096BB0C /* SquaresBetweenRange.swift in Sources */,
 				9C4293A3279BED7C00A49C07 /* TimeCoversion.swift in Sources */,

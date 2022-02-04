@@ -42,7 +42,10 @@ class ViewController: UIViewController {
         
        // print(squares(a: 11, b: 734))
         
-        taumBday(b: 3, w: 3, bc: 1, wc: 9, z: 2)
+       // taumBday(b: 3, w: 3, bc: 1, wc: 9, z: 2)
+        
+        //print(breakingRecords(scores: [0 , 9 ,  3 ,  10 ,  2  , 20]))
+        migratoryBirds(arr: [1, 2 ,3 ,4 ,5, 4 ,3 ,2, 1 ,3 ,4])
         
         
         
